@@ -16,6 +16,7 @@ console.log("luis")
 console.log("CARLOS")
 
 console.log("VALERIA")
+<<<<<<< HEAD
 
 
 console.log("nuevo cambio")
@@ -28,6 +29,8 @@ condslkndlkksfk
 dkfnlksfnkdsf
 dslkfdslkfnkldsnfkds
 lkdfsnkldsnkdskdlkfd
+=======
+>>>>>>> e7af43208b052e307bbe501d9dea23f0e6ef1d4e
 condslkndlkksfk
 dkfnlksfnkdsf
 dslkfdslkfnkldsnfkds
